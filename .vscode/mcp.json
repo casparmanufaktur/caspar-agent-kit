@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "caspar-manufaktur": {
+      "type": "http",
+      "url": "https://www.caspar-manufaktur.de/mcp/"
+    }
+  }
+}

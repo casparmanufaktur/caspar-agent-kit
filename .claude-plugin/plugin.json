@@ -1,0 +1,10 @@
+{
+  "name": "caspar-manufaktur",
+  "version": "1.0.0",
+  "description": "Official Caspar Manufaktur plugin: MCP server and skill for wallpaper material advice and human-reviewed project handoffs.",
+  "author": { "name": "Caspar GmbH", "email": "info@caspar-manufaktur.de", "url": "https://www.caspar-manufaktur.de/" },
+  "homepage": "https://www.caspar-manufaktur.de/developers/",
+  "repository": "https://github.com/casparmanufaktur/caspar-agent-kit",
+  "license": "MIT",
+  "keywords": ["caspar-manufaktur", "wallpaper", "mcp"]
+}

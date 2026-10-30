@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "caspar-manufaktur",
+  "version": "1.0.0",
+  "description": "Official Caspar Manufaktur agent plugin: MCP server and skill for wallpaper material advice, resolution checks and human-reviewed project handoffs.",
+  "author": { "name": "Caspar GmbH", "email": "info@caspar-manufaktur.de", "url": "https://www.caspar-manufaktur.de/" },
+  "homepage": "https://www.caspar-manufaktur.de/developers/",
+  "repository": "https://github.com/casparmanufaktur/caspar-agent-kit",
+  "license": "MIT",
+  "keywords": ["caspar-manufaktur", "wallpaper", "tapete", "digital-print", "mcp", "b2b"]
+}
