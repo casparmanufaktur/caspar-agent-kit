@@ -15,6 +15,20 @@ Use this repository to connect AI coding and assistant tools to the public Caspa
 | [`.github/copilot-instructions.md`](.github/copilot-instructions.md), [`.vscode/mcp.json`](.vscode/mcp.json) | GitHub Copilot / VS Code |
 | [`plugin.json`](plugin.json), [`mcp.json`](mcp.json), [`skills/`](skills/) | [Agent Plugins](https://agent-plugins.org/) 1.0.0 |
 
+## Skills
+
+| Skill | Use case |
+|---|---|
+| [`caspar-materialberatung`](skills/caspar-materialberatung/SKILL.md) | Material advice, resolution check and handoff to the Caspar team |
+| [`caspar-druckdaten-pruefen`](skills/caspar-druckdaten-pruefen/SKILL.md) | Check image resolution for a wall size and prepare print data |
+| [`caspar-white-label`](skills/caspar-white-label/SKILL.md) | White label, print on demand and drop shipping for shops and brands |
+
+Install with the skills CLI:
+
+```
+npx skills add casparmanufaktur/caspar-agent-kit
+```
+
 ## Quick start
 
 MCP server (Streamable HTTP, no API key):
